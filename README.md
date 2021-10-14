@@ -14,7 +14,7 @@
 
 - python3 -m pip install mechanize
 
-- python3 fb.py or python fb2.py
+- python3 bruteforce.py or python Bruteforc3.py
 
 *ito ay ginawa para sa kaalaman na makakatulong sa
 mga facebook nakalimutan ang password
