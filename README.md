@@ -8,7 +8,7 @@
 
 - git clone https://github.com/Commaders/Bruteforce
 
-- cd BruteForce
+- cd Bruteforce
 
 - python3 -m pip install requests bs4
 
