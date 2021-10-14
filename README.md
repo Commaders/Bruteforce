@@ -6,7 +6,7 @@
 
 - apt-get install git python3
 
-- https://github.com/Commaders/Bruteforce
+- git clone https://github.com/Commaders/Bruteforce
 
 - cd BruteForce
 
