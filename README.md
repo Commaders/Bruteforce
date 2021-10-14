@@ -26,5 +26,5 @@ Cyber Security
 * chat me for more informations of
 * hacking or brute force attack
 
-/salamat/
-/thanks/
+
+/thanks/for/use
