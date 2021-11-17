@@ -2,8 +2,10 @@
 #Creator:Johnry
 #Programmer:Johnry 
 
+## tested on
 (termux, Window, linux, )
 
+bash```
 - apt-get install git python3
 
 - git clone https://github.com/Commaders/Bruteforce
@@ -15,6 +17,7 @@
 - python3 -m pip install mechanize
 
 - python3 bruteforce.py or python Bruteforc3.py
+``` 
 
 *ito ay ginawa para sa kaalaman na makakatulong sa
 mga facebook nakalimutan ang password
