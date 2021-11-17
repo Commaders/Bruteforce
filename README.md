@@ -35,4 +35,4 @@ python3 -m pip install requests bs4
 
 python3 -m pip install mechanize
 
-bruteforce.py or bruteforc3.py
+bruteforce.py or Bruteforc3.py
