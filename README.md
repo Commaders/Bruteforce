@@ -25,12 +25,14 @@ Cyber Security
 
 ### installing this command
 ```
-- apt-get install git python3
+apt-get install git python3
 
-- git clone https://github.com/Commaders/Bruteforce
+git clone https://github.com/Commaders/Bruteforce
 
-- cd Bruteforce
+cd Bruteforce
 
-- python3 -m pip install requests bs4
+python3 -m pip install requests bs4
 
-- python3 -m pip install mechanize
+python3 -m pip install mechanize
+
+bruteforce.py or bruteforc3.py
