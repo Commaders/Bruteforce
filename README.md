@@ -1,23 +1,8 @@
-# Bruteforce
-#Creator:Johnry
-#Programmer:Johnry 
 
-## tested on
-(termux, Window, linux, )
 
-bash```
-- apt-get install git python3
 
-- git clone https://github.com/Commaders/Bruteforce
 
-- cd Bruteforce
 
-- python3 -m pip install requests bs4
-
-- python3 -m pip install mechanize
-
-- python3 bruteforce.py or python Bruteforc3.py
-``` 
 
 *ito ay ginawa para sa kaalaman na makakatulong sa
 mga facebook nakalimutan ang password
@@ -31,3 +16,21 @@ Cyber Security
 
 
 /thanks/for/use
+# Bruteforce
+#Creator:Johnry
+#Programmer:Johnry 
+
+## tested on
+(termux, Window, linux, )
+
+### installing this command
+```
+- apt-get install git python3
+
+- git clone https://github.com/Commaders/Bruteforce
+
+- cd Bruteforce
+
+- python3 -m pip install requests bs4
+
+- python3 -m pip install mechanize
