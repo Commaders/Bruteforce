@@ -14,7 +14,9 @@ Cyber Security
 * chat me for more informations of
 * hacking or brute force attack
 
-## fo
+## Donate for my loptap in online class
+- https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
+
 /thanks/for/use
 # Bruteforce
 #Creator:Johnry
@@ -38,6 +40,3 @@ python3 -m pip install mechanize
 
 bruteforce.py or Bruteforc3.py
 
-for my loptap on online class
-## donate link 
-https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
