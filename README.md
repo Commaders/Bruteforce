@@ -14,7 +14,7 @@ Cyber Security
 * chat me for more informations of
 * hacking or brute force attack
 
-
+## fo
 /thanks/for/use
 # Bruteforce
 #Creator:Johnry
@@ -24,6 +24,7 @@ Cyber Security
 (termux, Window, linux, )
 
 ### installing this command
+
 ```
 apt-get install git python3
 
@@ -36,3 +37,7 @@ python3 -m pip install requests bs4
 python3 -m pip install mechanize
 
 bruteforce.py or Bruteforc3.py
+
+for my loptap on online class
+## donate link 
+https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
