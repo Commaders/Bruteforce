@@ -14,7 +14,7 @@ Cyber Security
 * chat me for more informations of
 * hacking or brute force attack
 
-## Donate for my loptap in online class
+## Donate for my laptop in online class
 - https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
 
 /thanks/for/use
