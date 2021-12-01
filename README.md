@@ -17,7 +17,7 @@ Cyber Security
 ## Donate for my laptop in online class
 - https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
 
-/thanks/for/use
+
 # Bruteforce
 #Creator:Johnry
 #Programmer:Johnry 
