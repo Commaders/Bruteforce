@@ -14,7 +14,8 @@ Cyber Security
 * chat me for more informations of
 * hacking or brute force attack
 
-## Donate for my laptop in online class
+## to become Sponsor Donate 
+   # 2$ for week
 - https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
 
 
