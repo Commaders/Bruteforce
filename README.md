@@ -2,21 +2,28 @@
 
 
 
-
+## tagalog version
 
 *ito ay ginawa para sa kaalaman na makakatulong sa
 mga facebook nakalimutan ang password
 
-*this Create for a Education and learn to
-Cyber Security
+## english version
+i create for learning and for helping other 
+people to Recover the account.
 
-* We Are Anonymous Corporation.
+*this Create for a Education and learn to
+become Cyber Security
+
+* We Are Anonymous
 * chat me for more informations of
 * hacking or brute force attack
 
 ## to become Sponsor Donate 
    # 2$ for week
 - https://paypal.me/thanksforgift720?country.x=PH&locale.x=en_US
+
+## BTC - Bitcoin Donations please
+
 
 
 # Bruteforce
